@@ -1,0 +1,73 @@
+@media (min-width:1500px) {
+    #social {
+        margin: 20%;
+    }
+}
+@media (max-width:768px){
+    .experiencePhoto{
+        background: #6488ea;
+        border-radius: 3px;
+        align-content: center;
+        width: 100%;
+    }
+    .navbar-right{
+        margin-left: 59%;
+        margin-top: -50px;
+    }
+    .pos,.dates, #life{
+        font-size: 14px;
+    }
+    .dates{
+        text-align: right;
+    }
+    .photobox2 {
+        display: flex;
+        justify-content: center;
+        border-radius: 4px;
+        padding: 1%;
+        height: 150px;
+        width: 200px;
+        margin: 15px 50px;
+    }
+    .containerphotos img{
+        margin: 0;
+    }
+    .short-intro, #life, #contacts {
+        font-size: 15px;
+    }
+    .photobox2 .experience {
+        margin: 0;
+        max-width: 338px;
+        max-height: 180px;
+    }
+    #gal-btn{
+        margin: 15px 0;
+    }
+    #gg, #vut, #ytu, #erasmus,#life {
+        font-size: 15px;
+    }
+
+    #sub{
+        text-align: center;
+    }
+    #social {
+        margin: 0;
+    }
+    #contacts{
+        text-align: center;
+    }
+    #photos{
+        text-align: center;
+    }
+    .mailForm {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .formtexts{
+        width: 100%;
+    }
+    .row{
+        justify-content: center;
+    }
+    
+}

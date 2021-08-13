@@ -8,6 +8,10 @@ a{
     text-decoration: none;
     color: #c60021;
 }
+a.disabled{
+    pointer-events: none;
+    cursor: none;
+}
 
 .header {
     display: flex;

@@ -12,6 +12,9 @@ a.disabled{
     pointer-events: none;
     cursor: none;
 }
+#right-buttons{
+    margin-top: 15px;
+}
 
 .header {
     display: flex;

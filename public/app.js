@@ -15,6 +15,16 @@ function myFunction(){
     }
 }
 
+// function translateTR(){
+//     var btnText=document.getElementById("translateTR");
+//     if(btnText.innerHTML=="Tr"){
+//         btnText.innerHTML="En";
+//     }
+//     else{
+//         btnText.innerHTML="Tr"
+//     }
+// }
+
 function myGal(){
     var btn=document.getElementById("gal-btn");
     var gallery=document.getElementById("photos");
